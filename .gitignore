@@ -1,0 +1,4 @@
+epg*.xml
+epg*.xml.tmp
+logs/
+__pycache__/
